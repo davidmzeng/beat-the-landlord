@@ -13,6 +13,7 @@ The turn order is established as: Landlord, User (playing as a peasant), Peasant
 So the user is playing on the peasant side alongside the other peasant against the landlord. 
 
 Sources I referenced in programming this:
+
 https://www.pagat.com/climbing/doudizhu.html
 
 https://en.wikipedia.org/wiki/Dou_dizhu
