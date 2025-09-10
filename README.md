@@ -14,7 +14,9 @@ So the user is playing on the peasant side alongside the other peasant against t
 
 Sources I referenced in programming this:
 https://www.pagat.com/climbing/doudizhu.html
+
 https://en.wikipedia.org/wiki/Dou_dizhu
+
 https://brisbanecards.org/wp-content/uploads/2024/09/dou-dizhu-bc-house-rules.pdf
 
 ## Run
